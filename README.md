@@ -30,6 +30,7 @@ git clone https://github.com/vitoralveschaves/point-of-interest-challenge
 - A aplicação estará executando em http://localhost:8080
 
 <h2 id="routes">📍 Endpoints da API</h2>
+
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
