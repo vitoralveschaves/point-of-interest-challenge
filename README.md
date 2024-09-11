@@ -29,9 +29,7 @@ git clone https://github.com/vitoralveschaves/point-of-interest-challenge
 - Inicia sua aplicação com Maven
 - A aplicação estará executando em http://localhost:8080
 
-<h2 id="routes">📍 API Endpoints</h2>
-
-Here you can list the main routes of your API, and what are their expected request bodies.
+<h2 id="routes">📍 Endpoints da API</h2>
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
